@@ -1,0 +1,83 @@
+/* fieldset{
+    margin:1em;
+    border:1px solid #E5E5E5;
+} */
+legend{
+    padding-left:1em;
+}
+
+
+.my-create{
+    width:600px;
+    margin: 3rem auto;
+   
+}
+
+/* .card-header{
+    background-color:rgb(249,182,31);
+} */
+
+.card-header > h2,h5{
+    color:#fff;
+}
+
+img {
+    color: #F00;
+    max-width: 100%;
+    margin: auto;
+    height: auto;
+}
+div > .card-img-top{
+    max-width: 100% !important;
+    margin-left: 5.2em;
+}
+
+.text-muted {
+    color: #fff !important;
+
+}
+
+a{
+    color:#fff;
+}
+a:hover{
+    color:#fff;
+    text-decoration: none; 
+}
+.card:hover{
+    top:0;
+    z-index: 1;
+    background-color:#eee;
+}
+
+.my-label{
+    margin-left: -214px;
+    margin-top: -11px;
+}
+
+.my-nav{
+    
+
+    position: absolute;
+    top: 68px;
+    width: 121px;
+    background-color: red;
+}
+
+.card-deck{
+    margin-left:0;
+    margin-right:0;
+    left:0;
+}
+.navbar{
+    top:0;
+    position: relative;
+}
+.nav{
+   background-color:#EEEEEE;
+    top:68px;
+    left:0;
+    min-width: 150px;
+    height:100vh;
+    position: absolute;
+}
